@@ -1,5 +1,5 @@
 # Angular Pro Sidebar
-
+env: this project is built by node js 9 and angular/cli 7.1.0
 A responsive sidebar template with dropdown menu built with angular 7 and bootstrap 4
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.2.
